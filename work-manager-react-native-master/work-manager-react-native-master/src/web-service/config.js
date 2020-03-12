@@ -1,0 +1,9 @@
+const DOMAIN = 'http://ayareda-001-site1.itempurl.com'
+const API = '/api/1'
+export const BASE = DOMAIN + API
+export const LOGIN = '/identity/login'
+export const REGISTERATION = '/identity/register'
+export const DEVELOPERS = '/developer'
+export const PROJECTS = '/project'
+export const DISCUSSIONS = '/projectDiscussion'
+export const ADD_COMMENT = '/projectdiscussion/addcomment'

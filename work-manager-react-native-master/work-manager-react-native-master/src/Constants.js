@@ -1,0 +1,6 @@
+export const name_key = '@NAME_KEY'
+export const password_key = '@PASSWORD_KEY'
+export const mobile_key = '@MOBILE_KEY'
+export const session_key = '@SESSION_ID_KEY'
+export const roleId_key = '@ROLE_ID_KEY'
+export const sessionid_header_key = 'AqarPress-UserSessionId'
